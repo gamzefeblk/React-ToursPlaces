@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+
+.image:hover +.hide {
+    display: block;
+    height:"20vh";
+
+}
