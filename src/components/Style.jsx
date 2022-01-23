@@ -39,7 +39,7 @@ export const BodyContainer = style.div`
 background: url(${image}) center center fixed;
 background-size: cover;
 width: 100%;
-height:2600px;
+height:2400px;
 opacity: 0.8;
 position: relative;
 `
@@ -64,7 +64,7 @@ border-radius:10px;
 &:hover {
 box-shadow: 0 8px 10px 0 ;
 // filter: brightness(70%);
-filter: grayscale(30%);
+filter: grayscale(80%);
 }
 `
 export const Image = style.div`
