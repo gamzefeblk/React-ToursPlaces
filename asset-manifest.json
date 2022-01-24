@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-ToursPlaces/static/css/main.a987db13.css",
+    "main.js": "/React-ToursPlaces/static/js/main.631e1b54.js",
+    "static/js/787.6da10b9e.chunk.js": "/React-ToursPlaces/static/js/787.6da10b9e.chunk.js",
+    "static/media/bluesky.jpg": "/React-ToursPlaces/static/media/bluesky.29289af71bef007fbd40.jpg",
+    "index.html": "/React-ToursPlaces/index.html",
+    "main.a987db13.css.map": "/React-ToursPlaces/static/css/main.a987db13.css.map",
+    "main.631e1b54.js.map": "/React-ToursPlaces/static/js/main.631e1b54.js.map",
+    "787.6da10b9e.chunk.js.map": "/React-ToursPlaces/static/js/787.6da10b9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a987db13.css",
+    "static/js/main.631e1b54.js"
+  ]
+}
