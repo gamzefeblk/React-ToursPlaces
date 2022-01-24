@@ -42,6 +42,7 @@ width: 100%;
 height:2400px;
 opacity: 0.8;
 position: relative;
+overflow:hidden
 `
 export const Title = style.h1`
 font-family: 'Lobster', cursive;
@@ -65,6 +66,8 @@ border-radius:10px;
 box-shadow: 0 8px 10px 0 ;
 // filter: brightness(70%);
 filter: grayscale(80%);
+overflow:hidden;
+
 }
 `
 export const Image = style.div`

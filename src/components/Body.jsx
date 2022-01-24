@@ -17,10 +17,11 @@ export default function body() {
                     <Card>
                         <Title header key={element.id}>{element.title}</Title>
                         <Image> 
-                        <img className={styles.image} style={{width:"100%",height:"30vh",borderRadius:"5px"}} src={element.image}/>
+                        <img className={styles.image} style={{width:"100%",height:"40vh",borderRadius:"5px"}} src={element.image}/>
                         <Div className={styles.hide}>{element.desc}
                         </Div>
                         </Image>
+                        
                     </Card>
                 ))
             }
